@@ -6,4 +6,5 @@ A very simple Android app to take pictures
 add this in AndroidManifest.xml
 
 `  <uses-permission android:name="android.permission.CAMERA" />
-    <uses-feature android:name="android.hardware.camera" /> `
+
+   <uses-feature android:name="android.hardware.camera" /> `
